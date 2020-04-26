@@ -1,0 +1,2 @@
+Query for Creating Table CDLibrary:
+	create table CDLibrary(cdId varchar2(10),cdname varchar2(30),procure_date date,release_year number(4),price number(6,2));
